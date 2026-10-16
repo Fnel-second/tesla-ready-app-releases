@@ -15,3 +15,23 @@
 3. **위치 권한 '항상 허용'**: 앱 안내에 따라 위치를 "항상 허용"으로 설정해요. 선택지가 막혀 있으면 설정 → 애플리케이션 → Tesla Ready → 오른쪽 위 **⋮ → "제한된 설정 허용"**을 누른 뒤 다시 시도해요.
 4. **배터리 최적화 제외**: 설정 → 애플리케이션 → Tesla Ready → 배터리 → **"제한 없음"**으로 바꿔요.
 5. **알림 허용**: 설정 → 애플리케이션 → Tesla Ready → 알림에서 알림을 켜요. (취소 버튼 알림에 필요해요)
+
+---
+
+## English
+
+**Download the latest APK:** [TeslaReadyApp.apk](https://github.com/Fnel-second/tesla-ready-app-releases/releases/latest/download/TeslaReadyApp.apk)
+
+This repository only hosts APK releases. It contains no source code. The app shows English or Korean based on your phone's language. Outside Korea it uses OpenStreetMap and shows distances in feet/miles in the US.
+
+> After-blow and the cancel button have not yet been verified on a real car.
+
+### Install guide (Android 15 / Samsung Galaxy)
+
+> Menu names may differ slightly by phone maker and One UI / Android version.
+
+1. **Allow unknown apps**: in the app you opened the APK with (browser or My Files), turn on "Allow from this source". (Settings → Apps → Special access → Install unknown apps)
+2. **Play Protect**: if it blocks the app, don't tap "OK". Tap **"More details" → "Install anyway"**.
+3. **Location "Allow all the time"**: follow the in-app prompt and pick "Allow all the time". If the option is greyed out, go to Settings → Apps → Tesla Ready → **⋮ (top right) → "Allow restricted settings"**, then try again.
+4. **Battery**: Settings → Apps → Tesla Ready → Battery → **"Unrestricted"**.
+5. **Notifications**: Settings → Apps → Tesla Ready → Notifications → turn on (needed for the cancel-button notification).
